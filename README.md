@@ -1,102 +1,78 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Vinoth 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=250&section=header&text=VINOTH&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=40"/>
+<p align="center">
+  <b>Cyber Security Student · CTF Player · Linux Enthusiast · Aspiring Security Researcher</b>
+</p>
 
-# 👨‍💻 Vinoth M
+<p align="center">
+  <a href="https://github.com/vinoth12-2005">
+    <img src="https://komarev.com/ghpvc/?username=vinoth12-2005&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://tryhackme.com/p/vinothjpvm">
+    <img src="https://img.shields.io/badge/TryHackMe-Active-red?style=flat&logo=tryhackme&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/OS-Debian%20Linux-A81D33?style=flat&logo=debian&logoColor=white" />
+</p>
 
-### 🔐 Cyber Security Student | Linux Enthusiast | Pentesting Learner
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Cyber+Security+Student;Linux+Power+User;TryHackMe+Learner;CTF+Player;Building+Recon+Tools;Future+Security+Researcher" />
+### 👨‍💻 About Me
+
+- 🎓 Final Year **B.E. Computer Science & Engineering (Cyber Security)**
+- 🔭 Currently building **[ReconX](https://github.com/vinoth12-2005/ReconX)** — a reconnaissance automation tool
+- 🌱 Learning **Penetration Testing, Web Security & Red Teaming**
+- 🏴‍☠️ Active on **TryHackMe** and CTF competitions
+- 🐧 Daily driving **Debian Linux**
+- 💬 Ask me about **Linux, Networking, Ethical Hacking**
+- 🚀 Goal: Become a **Security Researcher**
+
+> *"The quieter you become, the more you are able to hear."*
+
+---
+
+### 🛠️ Tech Stack
 
 <p>
-<a href="https://www.linkedin.com/in/vinothcyberstudent">
-<img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=black">
-</a>
-
-<a href="https://tryhackme.com/p/vinothjpvm">
-<img src="https://img.shields.io/badge/TryHackMe-00ff41?style=for-the-badge&logo=tryhackme&logoColor=black">
-</a>
-
-<a href="https://github.com/vinoth12-2005">
-<img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black">
-</a>
+  <img src="https://skillicons.dev/icons?i=python,c,java,bash,linux,git,github,html,css&theme=dark" />
 </p>
 
-</div>
+**Security Tools:**
+`Nmap` `Wireshark` `Metasploit` `Burp Suite` `Gobuster` `Netcat`
 
 ---
 
-# 🖥️ SYSTEM STATUS
+### 🚀 Featured Projects
 
-```yaml
-Name: Vinoth
-Role: Cyber Security Student
-Operating_System: Debian Linux
-Shell: Bash
-Focus:
-  - Linux
-  - Pentesting
-  - Web Security
-  - Reconnaissance
-Status: Online
-```
+| Project | Description |
+|---|---|
+| 🆕 **[ReconX](https://github.com/vinoth12-2005/ReconX)** | Reconnaissance automation tool for pentesters & CTF players — actively in development |
+| 🛡️ **[VULnix 2.0 Debug Challenge](https://github.com/vinoth12-2005/VULnix2.0-debug-challenge)** | Cybersecurity challenge platform with Python, C & Java debugging labs |
+| 🔐 **[HMAC Simulation](https://github.com/vinoth12-2005/vinoth12-2005)** | Practical implementation of Hash-based Message Authentication Code |
+| 🏢 **[Conference Management System](https://github.com/vinoth12-2005/conference-management-system)** | Web-based conference and event management application |
+| 🌐 **[Portfolio](https://github.com/vinoth12-2005/portfolios_vinoth)** | Personal portfolio website |
 
 ---
 
-# ⚡ CURRENT OBJECTIVES
-
-* 🐧 Master Linux Administration
-* 🔐 Learn Advanced Web Security
-* 🎯 Complete More TryHackMe Rooms
-* 🚩 Play More CTF Challenges
-* 🛠️ Build Security Tools
-* 🌍 Contribute to Open Source
-
----
-
-# 🧰 CYBER ARSENAL
-
-![Python](https://img.shields.io/badge/Python-00ff41?style=for-the-badge\&logo=python\&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-00ff41?style=for-the-badge\&logo=gnubash\&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-00ff41?style=for-the-badge\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-00ff41?style=for-the-badge\&logo=docker\&logoColor=black)
-![Nmap](https://img.shields.io/badge/Nmap-00ff41?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-00ff41?style=for-the-badge)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-00ff41?style=for-the-badge)
-
----
-
-# 📊 GITHUB ANALYTICS
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vinoth12-2005&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinoth12-2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth12-2005&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinoth12-2005&theme=chartreuse-dark" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth12-2005&layout=compact&theme=chartreuse-dark" />
+  <img src="https://streak-stats.demolab.com?user=vinoth12-2005&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<div align="center">
+### 🤝 Connect with Me
 
-### 💀 ACCESS GRANTED
-
-```text
-root@vinoth:~# whoami
-vinoth
-
-root@vinoth:~# status
-Learning Cyber Security...
-
-root@vinoth:~# mission
-Become a Security Researcher
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer"/>
+<p>
+  <a href="https://github.com/vinoth12-2005">
+    <img src="https://img.shields.io/badge/GitHub-vinoth12--2005-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://tryhackme.com">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  </a>
+</p>
