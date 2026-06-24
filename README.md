@@ -1,147 +1,102 @@
 <div align="center">
 
-# 👾 Vinoth M
-### 🔐 Cyber Security Student | Linux Enthusiast | Ethical Hacker | Future Security Researcher
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=250&section=header&text=VINOTH&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Cyber+Security+Student;Linux+Power+User;Penetration+Testing+Enthusiast;CTF+Player;Building+Security+Tools;Always+Learning+Something+New" />
+# 👨‍💻 Vinoth M
+
+### 🔐 Cyber Security Student | Linux Enthusiast | Pentesting Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Cyber+Security+Student;Linux+Power+User;TryHackMe+Learner;CTF+Player;Building+Recon+Tools;Future+Security+Researcher" />
+
+<p>
+<a href="https://www.linkedin.com/in/vinothcyberstudent">
+<img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=black">
+</a>
+
+<a href="https://tryhackme.com/p/vinothjpvm">
+<img src="https://img.shields.io/badge/TryHackMe-00ff41?style=for-the-badge&logo=tryhackme&logoColor=black">
+</a>
+
+<a href="https://github.com/vinoth12-2005">
+<img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
 
 </div>
 
 ---
 
-```text
-┌──────────────────────────────────────────────┐
-│  SYSTEM STATUS                               │
-├──────────────────────────────────────────────┤
-│ Name      : Vinoth M                         │
-│ Role      : Cyber Security Student           │
-│ Focus     : Pentesting & Linux               │
-│ Location  : Tamil Nadu, India                │
-│ OS        : Debian Linux                     │
-│ Terminal  : Bash                             │
-│ Status    : Learning • Building • Hacking    │
-└──────────────────────────────────────────────┘
-```
+# 🖥️ SYSTEM STATUS
 
-## 🚀 About Me
-
-- 🎓 B.E Computer Science & Engineering (Cyber Security)
-- 🐧 Passionate Linux User
-- 🔐 Interested in Penetration Testing & Security Research
-- 🌐 Learning Network Security & Web Security
-- ⚡ Building Cybersecurity Tools and Labs
-- 🏴‍☠️ Active CTF & TryHackMe Learner
-- 📚 Always exploring new technologies
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/vinothcyberstudent">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://tryhackme.com/p/vinothjpvm">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red">
-</a>
-
-<a href="https://github.com/vinoth12-2005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
-## ⚔️ Cyber Security Arsenal
-
-### Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian)
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Security Tools
-
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
----
-
-## 🔥 Featured Projects
-
-### 🛡️ VULnix 2.0 Debug Challenge
-Cybersecurity challenge platform featuring Python, C and Java debugging tasks.
-
-### 🔐 HMAC Simulation
-Demonstrates secure authentication using Hash-based Message Authentication Code.
-
-### 🏢 Conference Management System
-Web-based management system for conferences and events.
-
----
-
-## 🎯 Current Mission
-
-```bash
-$ whoami
-
-Cyber Security Student
-
-$ current_goals
-
-[+] Master Linux
-[+] Improve Pentesting Skills
-[+] Build Security Tools
-[+] Complete More CTF Challenges
-[+] Contribute to Open Source
-[+] Become Security Researcher
+```yaml
+Name: Vinoth
+Role: Cyber Security Student
+Operating_System: Debian Linux
+Shell: Bash
+Focus:
+  - Linux
+  - Pentesting
+  - Web Security
+  - Reconnaissance
+Status: Online
 ```
 
 ---
 
-## 📈 GitHub Analytics
+# ⚡ CURRENT OBJECTIVES
+
+* 🐧 Master Linux Administration
+* 🔐 Learn Advanced Web Security
+* 🎯 Complete More TryHackMe Rooms
+* 🚩 Play More CTF Challenges
+* 🛠️ Build Security Tools
+* 🌍 Contribute to Open Source
+
+---
+
+# 🧰 CYBER ARSENAL
+
+![Python](https://img.shields.io/badge/Python-00ff41?style=for-the-badge\&logo=python\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-00ff41?style=for-the-badge\&logo=gnubash\&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-00ff41?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-00ff41?style=for-the-badge\&logo=docker\&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-00ff41?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-00ff41?style=for-the-badge)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-00ff41?style=for-the-badge)
+
+---
+
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinoth12-2005&show_icons=true&theme=chartreuse-dark" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth12-2005&layout=compact&theme=chartreuse-dark" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=vinoth12-2005&show_icons=true&theme=chartreuse-dark" />
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinoth12-2005&theme=chartreuse-dark" />
-
 </p>
 
----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth12-2005&layout=compact&theme=chartreuse-dark" />
+</p>
 
-## 🐍 Contribution Snake
-
-```text
-██    ██ ██ ███    ██  ██████  ████████ ██   ██
-██    ██ ██ ████   ██ ██    ██    ██    ██   ██
-██    ██ ██ ██ ██  ██ ██    ██    ██    ███████
- ██  ██  ██ ██  ██ ██ ██    ██    ██    ██   ██
-  ████   ██ ██   ████  ██████     ██    ██   ██
 ---
 
 <div align="center">
 
-### ⚡ "Security is a journey, not a destination."
+### 💀 ACCESS GRANTED
 
-![Profile Views](https://komarev.com/ghpvc/?username=vinoth12-2005&color=brightgreen)
+```text
+root@vinoth:~# whoami
+vinoth
+
+root@vinoth:~# status
+Learning Cyber Security...
+
+root@vinoth:~# mission
+Become a Security Researcher
+```
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer"/>
